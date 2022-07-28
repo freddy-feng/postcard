@@ -42,23 +42,13 @@ believes in:
 -   balance between exploration and exploitation
 -   appropriate performance metric(s)
 
-<!-- the notion of solution is not clear here, better than heuristics or what. what is the end point -->
 
 He values good teamwork (1+1\>2) and enjoys working in a diverse
 environment that encourage growth and curiosity.
 
-<!-- In football terms, he enjoys providing assists and good passes, and -->
-
-<!-- devotes into both attacking and defending actions. -->
 
 Read more about me in [🏋️education], [🧗experience], [👨‍🍳recent works],
 [🧰skills], and [😍hobbies] below.
-
-<!-- It's not always easy, especially inference but challenging.  -->
-
-<!-- communicate the solutions with stakeholders -->
-
-<!-- open-minded, inclusive, commitment, stoic, direct, holistic thinking, ... some pep talk shit here. I love to play the role of No. 8 in a football team, loves to assist but not afraid of making shots. but don't mind to go solo -->
 
 ------------------------------------------------------------------------
 
@@ -115,19 +105,6 @@ data science - one of the key components for [digital
 twins](https://en.wikipedia.org/wiki/Digital_twin#Urban_planning_and_the_construction_(built_environment)_industry)
 and [smart cities](https://en.wikipedia.org/wiki/Smart_city).
 
-<!-- He believes the promising future of Digital Twins, smart city -->
-
-<!-- other project experience also includes drainage system, and Wan Chai Development Phase II, Hong Kong -->
-
-<!-- which involves reclamation, tunnel and roads in one of the central business districts in Hong Kong. -->
-
-<!-- also mention the modelling works and pollution load inventory? -->
-
-<!-- due to COVID-19, sports analytics -->
-
-<!-- The root also goes back to the final year project of bachelor days, -->
-
-<!-- optimal design of structures using MCMC optimization. -->
 
 ------------------------------------------------------------------------
 
@@ -181,7 +158,6 @@ Other:
 
 -   MS Office suite
 
-<!-- the description of deep learning is not specific, what architecture? -->
 
 ------------------------------------------------------------------------
 
