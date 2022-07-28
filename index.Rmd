@@ -1,0 +1,210 @@
+---
+title: "Freddy Feng"
+image: "selfie_kinderdijk_square.jpg"
+links:
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/freddy-feng/"
+  - label: GitHub
+    url: "https://github.com/freddy-feng/"
+output:
+  postcards::solana
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+------------------------------------------------------------------------
+
+## about me
+
+<!-- **Civil engineering --\> Statistics & Data Science** -->
+
+<!-- **Hong Kong --\> The Netherlands** -->
+
+Freddy is an international student from Hong Kong on track of completing
+his master study in Statistics and Data Science in the Leiden
+University, the Netherlands.
+
+Prior to the study, he has worked as a civil / water engineer in Hong
+Kong specialized in sewerage infrastructure since graduating with the
+bachelor degree in civil engineering.
+
+He loves to apply statistics / data science / machine learning
+techniques to analyze and solve problems posing interesting challenges
+e.g. stochastic, complex, dynamic etc.. To deliver a good solution, he
+believes in:
+
+-   clear problem definition
+-   effective internal and external communication
+-   can-do and result-oriented spirit
+-   forward planning
+-   balance between time, cost, effect
+-   balance between exploration and exploitation
+-   appropriate performance metric(s)
+
+<!-- the notion of solution is not clear here, better than heuristics or what. what is the end point -->
+
+He values good teamwork (1+1\>2) and enjoys working in a diverse
+environment that encourage growth and curiosity.
+
+<!-- In football terms, he enjoys providing assists and good passes, and -->
+
+<!-- devotes into both attacking and defending actions. -->
+
+Read more about me in [🏋️education], [🧗experience], [👨‍🍳recent works],
+[🧰skills], and [😍hobbies] below.
+
+<!-- It's not always easy, especially inference but challenging.  -->
+
+<!-- communicate the solutions with stakeholders -->
+
+<!-- open-minded, inclusive, commitment, stoic, direct, holistic thinking, ... some pep talk shit here. I love to play the role of No. 8 in a football team, loves to assist but not afraid of making shots. but don't mind to go solo -->
+
+------------------------------------------------------------------------
+
+## 🏋️education
+
+**Master in Statistics and Data Science** \| 2020 - Aug 2022 (tentative)
+\|
+
+Leiden University, The Netherlands
+
+**Bachelor in Civil and Structural Engineering** \| 2009 - 2012 \|
+
+Hong Kong University of Science and Technology, Hong Kong
+
+------------------------------------------------------------------------
+
+## 🧗experience
+
+**Assistant Engineer** \| 2016 - 2020 \| AECOM, Hong Kong
+
+**Assistant Resident Engineer** \| 2014 - 2016 \| AECOM, Hong Kong
+
+**Graduate Engineer** \| 2012 - 2014 \| AECOM, Hong Kong
+
+After graduation from a civil engineering bachelor, Freddy joined the
+water engineering discipline of AECOM, one of the leading engineering
+consultant companies in Hong Kong.
+
+Over the eight years in AECOM, he gained an extensive, end-to-end
+experience from multiple public sewerage projects that covered most
+types of infrastructure, including sewer, sewage pumping station (Dutch:
+rioolgemaal), and sewage treatment works (Dutch:
+rioolwaterzuiveringsinstallatie, RWZI).
+
+The planning and design of the [Yuen Long Effluent Polishing
+Plant](http://www.hkengineer.org.hk/issue/vol50-jan2022/cover_story/)
+(YLEPP) is one of the vivid highlights in his engineering career. The
+project aims at replacing an aging sewage treatment works to support the
+future population growth in the Yuen Long district of Hong Kong. As a
+part of the project management and core design team, he collaborated
+with professionals from several disciplines, including electrical &
+mechanical engineers, sewage & sludge treatment engineers, geotechnical
+engineers, architects, and stakeholders to come up with an integrated
+design to overcome several non-trivial challenges and achieve the design
+visions of being green, smart, and resilient. <!-- Add some links -->
+<!-- His contribution mainly includes -->
+<!-- show them the sewage cycle -->
+
+The notion of smart design above, as materialized in the application of
+Building Information Modelling (BIM) and the pursuit to leverage
+artificial intelligence to optimize the future plant operation /
+maintenance, eventually inspired him to explore the vast universe of
+data science - one of the key components for [digital
+twins](https://en.wikipedia.org/wiki/Digital_twin#Urban_planning_and_the_construction_(built_environment)_industry)
+and [smart cities](https://en.wikipedia.org/wiki/Smart_city).
+
+<!-- He believes the promising future of Digital Twins, smart city -->
+
+<!-- other project experience also includes drainage system, and Wan Chai Development Phase II, Hong Kong -->
+
+<!-- which involves reclamation, tunnel and roads in one of the central business districts in Hong Kong. -->
+
+<!-- also mention the modelling works and pollution load inventory? -->
+
+<!-- due to COVID-19, sports analytics -->
+
+<!-- The root also goes back to the final year project of bachelor days, -->
+
+<!-- optimal design of structures using MCMC optimization. -->
+
+------------------------------------------------------------------------
+
+## 👨‍🍳recent works
+
+Currently, he is working on the thesis project of comparing various
+novel statistics modelling methods that predict progression into
+dementia using longitudinal data on dataset from the Alzheimer's Disease
+Neuroimaging Initiative study.
+
+During his spare time, he follows the development in sports data science
+(mainly football) and explores approaches to extract actionable and
+interpretable insights from various forms of data i.e. event data,
+tracking data, and journal data. For example:
+
+-   passing networks
+-   spatial control models
+
+He is also trying to build a system to optimize and automate the
+decision making for the Fantasy Premier League (FPL) game, in which a
+player needs to manage a portfolio of football players to score points
+based on the their events on field every game week, by modelling
+football events' data generating process and searching / evaluating
+competing strategies.
+
+------------------------------------------------------------------------
+
+## 🧰skills
+
+Statistics, data science, machine learning:
+
+-   coding language \| R, Python
+-   statistics \| generalized linear models, mixed models, survival
+    analysis, Bayesian models
+-   supervised learning \| random forest, boosting, SVM
+-   unsupervised learning \| principal component analysis, clustering
+    techniques
+-   deep learning, reinforcement learning \| Py - TensorFlow, PyTorch
+-   visualization \| R - ggplot2, shiny; Py - matplotlib, seaborn
+-   database \| SQL
+-   utils \| Git, Slurm, Docker
+-   other \| AutoML, social network analysis, spatial analysis
+
+Engineering:
+
+-   hydraulic and hydrologic modeling \| Infoworks ICM
+-   building Information Modeling \| Revit
+-   engineering contract \| NEC4
+
+Other:
+
+-   MS Office suite
+
+<!-- the description of deep learning is not specific, what architecture? -->
+
+------------------------------------------------------------------------
+
+## 😍hobbies
+
+<!-- pleasure/satisfaction/curiosity -->
+
+Outside of work/study, his interests include (in alphabetical order):
+
+-   architecture
+-   games: boardgames, simulation, city planning
+-   exploring places
+-   Japanese anime: Akira, Ghost in the Shell, Gundam series
+-   museums: art, culture, history, science
+-   music: jazz, Tokyo Jihen, learning 🎸
+-   reading
+-   sport: ⚽, 🚴, sport analytics
+-   water infrastructure
+
+------------------------------------------------------------------------
+
+🎉 You made it to the end, thanks a lot!
+
+Feel free to DM me at
+[linkedin](%22https://www.linkedin.com/in/freddy-feng/%22) if you wish
+to know more.
