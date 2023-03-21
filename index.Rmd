@@ -6,6 +6,8 @@ links:
     url: "https://www.linkedin.com/in/freddy-feng/"
   - label: GitHub
     url: "https://github.com/freddy-feng/"
+  - label: Flashcard app
+    url: "https://ik-weet-het-niet-train-your-memory.streamlit.app/"
 output:
   postcards::solana
 editor_options: 
@@ -54,7 +56,7 @@ Read more about me in [🏋️education], [🧗experience], [👨‍🍳recent w
 
 ## 🏋️education
 
-**Master in Statistics and Data Science** \| 2020 - Aug 2022 (tentative)
+**Master in Statistics and Data Science** \| 2020 - Aug 2022
 \|
 
 Leiden University, The Netherlands
@@ -62,6 +64,40 @@ Leiden University, The Netherlands
 **Bachelor in Civil and Structural Engineering** \| 2009 - 2012 \|
 
 Hong Kong University of Science and Technology, Hong Kong
+
+------------------------------------------------------------------------
+
+## 👨‍🍳recent works
+
+He has completed his thesis project in 2022 and graduated from the Master 
+of Statistics and Data Science, Leiden Univeristy. The thesis focused on 
+comparing various novel statistics modelling methods that predict progression 
+into dementia using longitudinal data on dataset obtained from the 
+Alzheimer's Disease Neuroimaging Initiative study. The statistical computing 
+was carried out in R with the used of ALICE High Performance Computing 
+facility at Leiden University.
+
+Recently, he has created a [flashcard app](https://ik-weet-het-niet-train-your-memory.streamlit.app/) 
+based on the Spaced Repetition method using Streamlit (Python) to 
+memorize Dutch words better.
+
+During his spare time, he loves to follow the development in sports 
+data science (mainly football) and explores approaches to extract 
+actionable and interpretable insights from various forms of data i.e. 
+event data, tracking data, and journal data. For example:
+
+-   passing networks
+  - aggregation of passing statistics to a team-based network
+-   spatial control model
+  - pobability model describing the tendency 
+of a team winning the ball at certain point on the football pitch
+
+He is also trying to build a system to optimize and automate the
+decision making for the Fantasy Premier League (FPL) game, in which a
+player needs to manage a portfolio of football players to score points
+based on the their events on field every game week, by modelling
+football events' data generating process and searching / evaluating
+competing strategies.
 
 ------------------------------------------------------------------------
 
@@ -105,31 +141,6 @@ data science - one of the key components for [digital
 twins](https://en.wikipedia.org/wiki/Digital_twin#Urban_planning_and_the_construction_(built_environment)_industry)
 and [smart cities](https://en.wikipedia.org/wiki/Smart_city).
 
-
-------------------------------------------------------------------------
-
-## 👨‍🍳recent works
-
-Currently, he is working on the thesis project of comparing various
-novel statistics modelling methods that predict progression into
-dementia using longitudinal data on dataset from the Alzheimer's Disease
-Neuroimaging Initiative study.
-
-During his spare time, he follows the development in sports data science
-(mainly football) and explores approaches to extract actionable and
-interpretable insights from various forms of data i.e. event data,
-tracking data, and journal data. For example:
-
--   passing networks
--   spatial control models
-
-He is also trying to build a system to optimize and automate the
-decision making for the Fantasy Premier League (FPL) game, in which a
-player needs to manage a portfolio of football players to score points
-based on the their events on field every game week, by modelling
-football events' data generating process and searching / evaluating
-competing strategies.
-
 ------------------------------------------------------------------------
 
 ## 🧰skills
@@ -143,7 +154,8 @@ Statistics, data science, machine learning:
 -   unsupervised learning \| principal component analysis, clustering
     techniques
 -   deep learning, reinforcement learning \| Py - TensorFlow, PyTorch
--   visualization \| R - ggplot2, shiny; Py - matplotlib, seaborn
+-   visualization \| R - ggplot2; Py - matplotlib, seaborn
+-   interactive \| R - shiny; Py - streamlit
 -   database \| SQL
 -   utils \| Git, Slurm, Docker
 -   other \| AutoML, social network analysis, spatial analysis
@@ -179,7 +191,7 @@ Outside of work/study, his interests include (in alphabetical order):
 
 ------------------------------------------------------------------------
 
-🎉 You made it to the end, thanks a lot!
+🎉 You made it to the end, thanks for reading!
 
 Feel free to DM me at
 [linkedin](%22https://www.linkedin.com/in/freddy-feng/%22) if you wish
