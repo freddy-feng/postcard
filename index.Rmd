@@ -1,5 +1,5 @@
 ---
-title: "Freddy Feng"
+title: "Yibin Feng (Freddy)"
 image: "selfie_kinderdijk_square.jpg"
 links:
   - label: Linkedin
@@ -23,31 +23,43 @@ editor_options:
 
 <!-- **Hong Kong --\> The Netherlands** -->
 
-Freddy is an international student from Hong Kong on track of completing
-his master study in Statistics and Data Science in the Leiden
-University, the Netherlands.
+Freddy recently graduated from the Master in Statistics and Data Science 
+in the Leiden University, the Netherlands. Prior to the study, he has 
+worked as a civil / water engineer in Hong Kong specialized in large-scale 
+sewerage infrastructure since graduating with the bachelor degree in civil 
+engineering. His career goal is to contribute to ambitious project dedicated to
+public good by leveraging his knowledge and potential in statistics 
+and data science. <!-- public good = healthcare, climate change -->
 
-Prior to the study, he has worked as a civil / water engineer in Hong
-Kong specialized in sewerage infrastructure since graduating with the
-bachelor degree in civil engineering.
-
-He loves to apply statistics / data science / machine learning
+He is highly motivated to apply statistics / data science / machine learning
 techniques to analyze and solve problems posing interesting challenges
-e.g. stochastic, complex, dynamic etc.. To deliver a good solution, he
-believes in:
+e.g. stochastic, complex, dynamic, uncertainty etc.. That's why he loves to 
+learn about new techniques and new data. Just as what Richard Feynmann said, 
+“Study hard what interests you the most in the most undisciplined, irreverent 
+and original manner possible.”
+
+To deliver a better solution, he believes in following principles:
 
 -   clear problem definition
--   effective internal and external communication
--   can-do and result-oriented spirit
+-   streamlined and proactive communication
+-   mutual trust
+-   roleplaying
 -   forward planning
--   balance between time, cost, effect
+-   balance between time, cost and effect
 -   balance between exploration and exploitation
--   appropriate performance metric(s)
+-   suitable performance metric(s)/criteria
+-   systematic workflow
+-   positive feedback loop
+-   sensitivity analysis
+-   can-do spirit, result-oriented execution
 
+He values good teamwork (1+1\>2) and enjoys working in a diverse environment 
+that encourage growth, curiosity and cultural/intellectual exchange. Apart 
+from a positive impact, a memory worth cherishing means a lot to the motivation 
+and satisfaction of a job.
 
-He values good teamwork (1+1\>2) and enjoys working in a diverse
-environment that encourage growth and curiosity.
-
+Currently, he is living in Rotterdam. (Surprise, surprise, the portrait
+photo was taken at Kinderdijk!)
 
 Read more about me in [🏋️education], [🧗experience], [👨‍🍳recent works],
 [🧰skills], and [😍hobbies] below.
@@ -87,9 +99,9 @@ actionable and interpretable insights from various forms of data i.e.
 event data, tracking data, and journal data. For example:
 
 -   passing networks
-  - aggregation of passing statistics to a team-based network
+    - aggregation of passing statistics to a team-based network
 -   spatial control model
-  - pobability model describing the tendency 
+    - pobability model describing the tendency 
 of a team winning the ball at certain point on the football pitch
 
 He is also trying to build a system to optimize and automate the
@@ -115,9 +127,8 @@ consultant companies in Hong Kong.
 
 Over the eight years in AECOM, he gained an extensive, end-to-end
 experience from multiple public sewerage projects that covered most
-types of infrastructure, including sewer, sewage pumping station (Dutch:
-rioolgemaal), and sewage treatment works (Dutch:
-rioolwaterzuiveringsinstallatie, RWZI).
+types of infrastructure, including sewer, sewage pumping station (
+rioolgemaal), and sewage treatment works (rioolwaterzuiveringsinstallatie).
 
 The planning and design of the [Yuen Long Effluent Polishing
 Plant](http://www.hkengineer.org.hk/issue/vol50-jan2022/cover_story/)
@@ -170,6 +181,12 @@ Other:
 
 -   MS Office suite
 
+Language:
+
+-   Cantonese 廣東話 (mother tongue)
+-   Mandarin (fluent)
+-   English (fluent)
+-   Nederlands (A1->A2/B1)
 
 ------------------------------------------------------------------------
 
@@ -183,6 +200,7 @@ Outside of work/study, his interests include (in alphabetical order):
 -   games: boardgames, simulation, city planning
 -   exploring places
 -   Japanese anime: Akira, Ghost in the Shell, Gundam series
+-   language: Dutch language (and finish reading Van Nul Tot Nu)
 -   museums: art, culture, history, science
 -   music: jazz, Tokyo Jihen, learning 🎸
 -   reading
@@ -191,7 +209,7 @@ Outside of work/study, his interests include (in alphabetical order):
 
 ------------------------------------------------------------------------
 
-🎉 You made it to the end, thanks for reading!
+🎉 You made it to the end. Thanks for your patience and have a nice day!
 
 Feel free to DM me at
 [linkedin](%22https://www.linkedin.com/in/freddy-feng/%22) if you wish
